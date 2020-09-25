@@ -1,9 +1,9 @@
 //============================================================================
 // Name        : Funcion.cpp
 // Author      : Jonathan Javier Areas
-// Version     : Version 1.0
+// Version     : Version 1.1
 // Copyright   : N.A.
-// Description : Hello World in C++, Ansi-style
+// Description : Funcion Potencial Exponencial implementada de manera iterativa.
 //============================================================================
 
 #include <iostream>
